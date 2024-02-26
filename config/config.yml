@@ -1,0 +1,9 @@
+# 高德 配置
+gd:
+  key: "高德的api key"
+  city: "440300"
+
+wx:
+  appid: "微信测试的appid"
+  appsecret: "appsecret"
+  weatTemplateID: "模版id"
